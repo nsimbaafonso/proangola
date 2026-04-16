@@ -1,5 +1,5 @@
 {
-  "name": "construcao-civil-apresentacao",
+  "name": "proangola",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,9 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.2.2",
+    "framer-motion": "^12.38.0",
+    "install": "^0.13.0",
+    "lightgallery": "^2.9.0",
+    "next": "^16.2.3",
+    "npm": "^11.12.1",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "react-hot-toast": "^2.6.0",
+    "swiper": "^12.1.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
