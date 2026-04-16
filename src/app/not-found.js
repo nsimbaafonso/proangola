@@ -16,7 +16,7 @@ export const metadata = {
     title: "Página não encontrada | Pro Angola",
     description:
       "Esta página não existe. Conheça a Pro Angola e solicite um orçamento para sua obra em Luanda.",
-    url: "https://seudominio.com",
+    url: "https://proangola.vercel.app",
     siteName: "Pro Angola",
     locale: "pt_AO",
     type: "website",

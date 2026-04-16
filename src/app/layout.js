@@ -30,13 +30,13 @@ export const metadata = {
     title: "Pro Angola | Construção Civil em Luanda",
     description:
       "Projetos de construção e engenharia com qualidade e confiança. Conheça a Pro Angola e peça já o seu orçamento.",
-    url: "https://seudominio.com",
+    url: "https://proangola.vercel.app",
     siteName: "Pro Angola",
     locale: "pt_AO",
     type: "website",
     images: [
       {
-        url: "https://seudominio.com/og-image.jpg",
+        url: "https://proangola.vercel.app/og-image.jpg",
         width: 1200,
         height: 630,
         alt: "Pro Angola Construção Civil",
@@ -48,7 +48,7 @@ export const metadata = {
     title: "Pro Angola | Engenharia e Construção",
     description:
       "Construa com segurança e qualidade. A Pro Angola é referência em obras e engenharia em Luanda.",
-    images: ["https://seudominio.com/og-image.jpg"],
+    images: ["https://proangola.vercel.app/og-image.jpg"],
   },
   robots: {
     index: true,
